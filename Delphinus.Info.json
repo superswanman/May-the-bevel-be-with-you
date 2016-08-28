@@ -1,6 +1,8 @@
 {
     "id": "{4D645C46-533B-45D8-860F-11A2E4D50DE9}",
+    "name": "May the bevel be with you",
     "picture": "Logo.png",
     "license_type": "MIT",
-    "license_file": "LICENSE"
+    "license_file": "LICENSE",
+    "platforms": "Win32"
 }
