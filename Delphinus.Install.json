@@ -3,7 +3,7 @@
     [
         {
             "folder": "src",
-            "base": "src",
+            "base": "",
             "recursive": false,
             "filter": "*;*.*"
         }
