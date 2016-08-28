@@ -1,0 +1,18 @@
+{
+    "source_folders":
+    [
+        {
+            "folder": "src",
+            "base": "src",
+            "recursive": false,
+            "filter": "*;*.*"
+        }
+    ],
+    "projects":
+    [
+        {
+            "project": "src\\mtbbwy.dproj",
+            "compiler_min": 30
+        }
+    ]
+}

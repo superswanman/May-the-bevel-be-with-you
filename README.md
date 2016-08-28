@@ -12,3 +12,5 @@ This plugin sets BevelOuter property to bvLowered in compiler progress window pa
 
 ## Sample
 ![Sample](http://cdn-ak.f.st-hatena.com/images/fotolife/t/tales/20160828/20160828152708.png)
+
+Delphinus-Support
