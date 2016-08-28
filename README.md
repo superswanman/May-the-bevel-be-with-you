@@ -9,3 +9,6 @@ This plugin sets BevelOuter property to bvLowered in compiler progress window pa
 ## Uninstallation
 1. Choose "Component > Install Packages" from main menu
 2. Uninstall "mtbbwy.bpl" package
+
+## Sample
+![Sample](http://cdn-ak.f.st-hatena.com/images/fotolife/t/tales/20160828/20160828152708.png)
